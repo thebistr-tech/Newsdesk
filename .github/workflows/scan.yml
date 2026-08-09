@@ -1,0 +1,39 @@
+name: Daily news scan
+
+on:
+  schedule:
+    # 04:00 UTC = 07:00 Israel time in summer (06:00 in winter). Edit as needed.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}   # adds a manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsdesk-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/scan.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "newsdesk-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/archive.json index.html
+          git commit -m "Scan $(date -u +%F)" || echo "nothing new"
+          git push
