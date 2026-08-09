@@ -1,0 +1,28 @@
+{
+  "alert_min_urgency": 4,
+  "retention_days": 21,
+  "projects": [
+    { "id": "p-mirilashvili", "name": "Mirilashvili",
+      "keywords": ["Mirilashvili", "מירילשווילי", "מירילשוילי", "Michael Mirilashvili", "Yitzhak Mirilashvili"],
+      "brief": "Track BOTH Michael Mirilashvili (father) and Yitzhak Mirilashvili (son). Any news published about either of them, in any language including Hebrew media." },
+    { "id": "p-channel14", "name": "Channel 14 (Israel)",
+      "keywords": ["Channel 14 Israel", "ערוץ 14", "Now 14"],
+      "brief": "Israeli TV channel. ONLY worldwide/international references — coverage of the channel by non-Israeli or international press. Stories about the channel itself and its owners. Exclude routine domestic Israeli programming coverage." },
+    { "id": "p-kazakhstan", "name": "Kazakhstan",
+      "keywords": ["Kazakhstan politics", "Kazakhstan economy"],
+      "brief": "ONLY large Western outlets: NYT, Financial Times, Bloomberg, Reuters, WSJ, The Economist and similar. Politics and economics only. STRICTLY no sport. Discard anything from local/regional or non-Western sources." },
+    { "id": "p-amadea", "name": "Amadea Yacht",
+      "keywords": ["Amadea yacht", "MY Amadea", "Suleyman Kerimov"],
+      "brief": "Superyacht seized by the US Government, owned by Suleyman Kerimov. Any news about the yacht, its owner Kerimov, or US government/court decisions regarding it." },
+    { "id": "p-georgescu", "name": "Calin Georgescu", "keywords": ["Calin Georgescu"],
+      "brief": "Romanian politician. Any stories regarding him, his trial, and his relevance in Romanian politics." },
+    { "id": "p-kamilov", "name": "Abdulaziz Kamilov", "keywords": ["Abdulaziz Kamilov"],
+      "brief": "Uzbek politician, current Presidential Advisor on Foreign Policy. Any news about him." },
+    { "id": "p-ortagus", "name": "Morgan Ortagus", "keywords": ["Morgan Ortagus"],
+      "brief": "American diplomat, Deputy United States Special Envoy to the Middle East. Any news about her." },
+    { "id": "p-kushner", "name": "Charles Kushner", "keywords": ["Charles Kushner"],
+      "brief": "United States Ambassador to France and Monaco. Any news about him." },
+    { "id": "p-spiro", "name": "Alex Spiro", "keywords": ["Alex Spiro", "Alex Spiro Quinn Emanuel"],
+      "brief": "American attorney, partner at Quinn Emanuel Urquhart & Sullivan. Any news about him, about large clients he represents, and any court decisions in major cases he is handling." }
+  ]
+}
