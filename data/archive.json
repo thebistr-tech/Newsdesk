@@ -751,6 +751,38 @@
    "status": "new",
    "updateOf": null,
    "summary": "No candidate cleared a majority in last night's South Carolina GOP special primary to replace the late Sen. Lindsey Graham, sending Trump-endorsed appointed Sen. Darline Graham and Rep. Ralph Norman to an Aug. 25 runoff — leaving uncertain who will champion the Graham sanctions act's Senate legacy in the new term."
+  },
+  {
+   "id": "bn7gmgx0",
+   "projectId": "p-mirilashvili",
+   "projectName": "Mirilashvili",
+   "scanDate": "2026-08-13",
+   "title": "Israeli Press Front Pages (13.8.2026): Mirilashvili Cross-Ownership Issue Leads Fifth Consecutive Day",
+   "source": "העין השביעית (The Seventh Eye)",
+   "url": "https://www.the7eye.org.il/592133",
+   "published": "2026-08-13",
+   "topic": "Media regulation",
+   "urgency": 3,
+   "quality": 3,
+   "status": "update",
+   "updateOf": "Israeli Press Front Pages (12.8.2026): Mirilashvili Cross-Ownership Issue Leads Fourth Consecutive Day",
+   "summary": "The Seventh Eye's daily press-digest confirms the Mirilashvili dual-ownership story headlines Israeli papers for a fifth straight day, alongside the ongoing story of the Second Authority representative concealing meetings with Minister Karhi."
+  },
+  {
+   "id": "bt21rb6s",
+   "projectId": "p-mirilashvili",
+   "projectName": "Mirilashvili",
+   "scanDate": "2026-08-13",
+   "title": "Second Authority Grants Channel 14 New Reprieve on Jerusalem Broadcast Requirement Until End of August",
+   "source": "אייס (ice.co.il)",
+   "url": "https://www.ice.co.il/tv/news/article/1124795",
+   "published": "2026-08-10",
+   "topic": "Regulatory enforcement",
+   "urgency": 4,
+   "quality": 3,
+   "status": "new",
+   "updateOf": null,
+   "summary": "The Second Authority council deferred enforcement of Channel 14's legal obligation to broadcast news from Jerusalem, granting a further reprieve until either Minister Karhi's communications law takes effect or end of August 2026 — whichever comes first — even though the channel's exemption period expired in February 2026."
   }
  ],
  "summaries": {
@@ -797,5 +829,5 @@
    }
   }
  },
- "lastScan": "2026-08-12T08:54:45.902Z"
+ "lastScan": "2026-08-13T08:53:30.999Z"
 }
