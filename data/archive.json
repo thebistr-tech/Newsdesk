@@ -1,150 +1,6 @@
 {
  "articles": [
   {
-   "id": "z02sh5s2",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-10",
-   "title": "NGOs Petition Second Authority to Strip Yitzhak Mirilashvili of Channel 14 or Kol Chai Radio After Legal Exemption Lapses",
-   "source": "TheMarker",
-   "url": "https://www.themarker.com/news/themedia/2026-08-05/ty-article/.premium/0000019f-d266-d04a-a3df-d6e6f6250000",
-   "published": "2026-08-05",
-   "topic": "Regulatory/Media",
-   "urgency": 4,
-   "quality": 4,
-   "status": "new",
-   "updateOf": null,
-   "summary": "NGOs 'Lobbby 99' and 'Hatzlacha' filed a petition to Israel's Second Authority arguing that the eight-year legal exemption allowing Yitzhak Mirilashvili to hold both Channel 14 and Kol Chai Radio simultaneously expired in February 2026, demanding enforcement of cross-ownership restrictions."
-  },
-  {
-   "id": "y11jzp6i",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-10",
-   "title": "Cross-Ownership Battle Over Channel 14 and Kol Chai Leads Today's Israeli Press Front Pages",
-   "source": "The 7th Eye (העין השביעית)",
-   "url": "https://www.the7eye.org.il/591914",
-   "published": "2026-08-10",
-   "topic": "Regulatory/Media",
-   "urgency": 4,
-   "quality": 3,
-   "status": "update",
-   "updateOf": "NGOs Petition Second Authority to Strip Yitzhak Mirilashvili of Channel 14 or Kol Chai Radio After Legal Exemption Lapses",
-   "summary": "The 7th Eye's Aug 10 press-digest highlights the Mirilashvili cross-ownership challenge as the lead media story of the day, signaling continued editorial and regulatory momentum against his simultaneous control of the TV channel and the Haredi radio station."
-  },
-  {
-   "id": "9m243r39",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-10",
-   "title": "Legal Exemption Expired: How Will the Second Authority Act Against Mirilashvili's Dual Media Holdings?",
-   "source": "The 7th Eye (העין השביעית)",
-   "url": "https://www.the7eye.org.il/591677",
-   "published": "2026-08-05",
-   "topic": "Regulatory/Media",
-   "urgency": 3,
-   "quality": 3,
-   "status": "new",
-   "updateOf": null,
-   "summary": "Deep-dive analysis noting that the statutory cross-ownership ban on simultaneous TV and radio ownership was reactivated in February 2026 and that Yitzhak Mirilashvili, who also holds 100% of Kol Chai after buying out minority partners in 2025, has yet to divest either asset."
-  },
-  {
-   "id": "yci8acyh",
-   "projectId": "p-amadea",
-   "projectName": "Amadea Yacht",
-   "scanDate": "2026-08-10",
-   "title": "Seizing Oligarch Yachts Sounded Great. Then Taxpayers Got the Bill.",
-   "source": "Forbes",
-   "url": "https://www.forbes.com/sites/giacomotognini/2026/07/26/inside-the-seized-superyacht-fiasco-thats-costing-taxpayers-millions/",
-   "published": "2026-07-26",
-   "topic": "Cost/Policy",
-   "urgency": 3,
-   "quality": 4,
-   "status": "update",
-   "updateOf": "Amadea Finally Sold After Years of Legal Battles — Disputes Still Live",
-   "summary": "Forbes investigative feature reveals the Amadea's four-year US custody cost taxpayers an estimated $36M in maintenance, with the government netting only ~$150M after costs from the $187M sale — and none of the proceeds earmarked for Ukraine."
-  },
-  {
-   "id": "hbd4jqyc",
-   "projectId": "p-georgescu",
-   "projectName": "Calin Georgescu",
-   "scanDate": "2026-08-10",
-   "title": "Georgescu Uses Mihai Viteazul Anniversary to Attack 'Anti-Christian Globalists' in Political Facebook Post",
-   "source": "Stiripesurse",
-   "url": "https://www.stiripesurse.ro/calin-georgescu-mihai-viteazul-globalisti-anticrestini_3910792",
-   "published": "2026-08-10",
-   "topic": "Political Messaging",
-   "urgency": 2,
-   "quality": 2,
-   "status": "new",
-   "updateOf": null,
-   "summary": "Despite facing trial, Georgescu published a charged political message on August 9 drawing a parallel between the 1601 assassination of Mihai Viteazul and today's 'anti-Christian globalists,' signalling continued far-right political activity."
-  },
-  {
-   "id": "iz5kslyc",
-   "projectId": "p-georgescu",
-   "projectName": "Calin Georgescu",
-   "scanDate": "2026-08-10",
-   "title": "Bucharest Court of Appeal Now Empowered to Schedule First Substantive Hearing in Georgescu-Potra Coup Case",
-   "source": "Stirile Transilvaniei",
-   "url": "https://stiriletransilvaniei.eu/2026/08/07/procesul-pe-fond-in-dosarul-lovitura-de-stat-poate-incepe-iccj-a-respins-definitiv-toate-contestatiile-in-cazul-georgescu-potra/",
-   "published": "2026-08-07",
-   "topic": "Trial Proceedings",
-   "urgency": 3,
-   "quality": 2,
-   "status": "update",
-   "updateOf": "Romania's Supreme Court Greenlights Full Coup-Attempt Trial Against Georgescu and Mercenary Leader Potra",
-   "summary": "Following the ICCJ's August 6 final ruling, the Bucharest Court of Appeal is now formally authorised to set the date for the first on-the-merits hearing in the 22-defendant coup case, marking the next concrete procedural step."
-  },
-  {
-   "id": "2ol7kni2",
-   "projectId": "p-ortagus",
-   "projectName": "Morgan Ortagus",
-   "scanDate": "2026-08-10",
-   "title": "House Russia-Iran Sanctions Vote Pushed to September as Congress Enters Recess",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war",
-   "published": "2026-08-08",
-   "topic": "Sanctions/Congress",
-   "urgency": 3,
-   "quality": 4,
-   "status": "update",
-   "updateOf": "Senate Passes Lindsey O. Graham Sanctioning Russia and Iran Act 86-11, Heads to House",
-   "summary": "A House floor vote on the Graham Russia-Iran sanctions bill — which Ortagus publicly championed — will not occur until at least early September, as the lower chamber has entered its five-week August recess, leaving the bill's fate uncertain amid Democratic resistance over tariff provisions."
-  },
-  {
-   "id": "zqb0iihg",
-   "projectId": "p-spiro",
-   "projectName": "Alex Spiro",
-   "scanDate": "2026-08-10",
-   "title": "Musk/Spiro File Ninth Circuit Appeal of Twitter Fraud Verdict and Post-Trial Rulings",
-   "source": "Mealey's / Law360",
-   "url": "https://www.mealeys.com/mealeys/mealeys-securities/articles/2509664",
-   "published": "2026-08-04",
-   "topic": "Securities Appeal",
-   "urgency": 5,
-   "quality": 4,
-   "status": "update",
-   "updateOf": "Judge Breyer Denies Musk/Spiro Post-Trial Motions to Void Twitter Fraud Verdict",
-   "summary": "Musk, represented by Spiro, filed a formal notice of appeal to the Ninth Circuit challenging the orders that largely upheld the March fraud verdict, with estimated damages of up to $2.6 billion."
-  },
-  {
-   "id": "izlq4im8",
-   "projectId": "p-spiro",
-   "projectName": "Alex Spiro",
-   "scanDate": "2026-08-10",
-   "title": "Alex Spiro Joins MasTec Board of Directors as Class III Director",
-   "source": "Business Wire / MasTec Investor Relations",
-   "url": "https://www.businesswire.com/news/home/20260730374869/en/MasTec-Announces-the-Appointment-of-Alex-Spiro-to-Its-Board-of-Directors",
-   "published": "2026-07-30",
-   "topic": "Corporate Governance",
-   "urgency": 2,
-   "quality": 4,
-   "status": "new",
-   "updateOf": null,
-   "summary": "NYSE-listed infrastructure giant MasTec appointed Spiro as a Class III director and Compensation Committee member, citing his decade of advising Fortune 500 companies on regulatory, securities, and litigation matters."
-  },
-  {
    "id": "qcvvaved",
    "projectId": "p-mirilashvili",
    "projectName": "Mirilashvili",
@@ -386,20 +242,6 @@
   }
  ],
  "summaries": {
-  "2026-08-10": {
-   "overall": "Musk's legal team (Spiro) filed a Ninth Circuit appeal of the Twitter fraud verdict with up to $2.6B in estimated damages, the day's most urgent development. In Israel, NGOs petitioned the Second Authority to enforce cross-ownership rules against Mirilashvili after his dual Channel 14/Kol Chai exemption expired in February 2026, dominating Israeli press front pages. The Amadea yacht saga drew scrutiny as a Forbes investigation revealed $36M in taxpayer custody costs with no proceeds earmarked for Ukraine. The Graham Russia-Iran sanctions bill Ortagus championed is stalled until at least September due to congressional recess.",
-   "perProject": {
-    "Mirilashvili": "Two NGOs formally petitioned Israel's Second Authority to enforce cross-ownership rules after Mirilashvili's eight-year exemption lapsed in February 2026; the story led Israeli press front pages. He now holds 100% of Kol Chai after buying out minority partners in 2025 and has not divested either asset.",
-    "Channel 14 (Israel)": "Quiet day.",
-    "Kazakhstan": "Quiet day.",
-    "Amadea Yacht": "Forbes revealed the Amadea's four-year US custody cost ~$36M, with the government netting only ~$150M from the $187M sale and none of the proceeds directed to Ukraine.",
-    "Calin Georgescu": "Georgescu posted a charged Facebook message invoking Mihai Viteazul to attack 'anti-Christian globalists,' signaling continued far-right activity despite his ongoing trial. Procedurally, the Bucharest Court of Appeal is now authorized to schedule the first substantive hearing in the 22-defendant coup case.",
-    "Abdulaziz Kamilov": "Quiet day.",
-    "Morgan Ortagus": "The House Russia-Iran sanctions bill Ortagus championed is stalled until at least September as Congress enters its five-week August recess, with Democratic resistance over tariff provisions adding further uncertainty.",
-    "Charles Kushner": "Quiet day.",
-    "Alex Spiro": "Spiro filed a Ninth Circuit appeal on behalf of Musk challenging the Twitter fraud verdict and post-trial rulings, with damages estimated up to $2.6B. Separately, Spiro joined MasTec's board as a Class III director and Compensation Committee member."
-   }
-  },
   "2026-08-12": {
    "overall": "A freedom-of-information revelation that Second Authority regulator Yoni Shemoni secretly met Communications Minister Kara'i twice after his appointment — while publicly denying contact — sharply escalates the Mirilashvili cross-ownership standoff into a full regulatory-independence crisis. On the Graham sanctions front, a bipartisan House companion bill was introduced during recess, but Trump's Iran tariff demand poses a critical obstacle to the two-thirds threshold needed, while the SC special primary runoff leaves Graham's Senate legacy seat unsettled until Aug. 25. Romania's Georgescu coup-plot file has formally returned to the Bucharest Court of Appeal for scheduling, and Newsweek's opinion calling on Washington to defend Georgescu's voters signals growing Western media attention to the annulment controversy.",
    "perProject": {
@@ -415,5 +257,5 @@
    }
   }
  },
- "lastScan": "2026-08-31T04:03:20.737Z"
+ "lastScan": "2026-09-01T04:05:36.680Z"
 }
