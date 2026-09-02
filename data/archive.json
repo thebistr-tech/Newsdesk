@@ -1,86 +1,6 @@
 {
  "articles": [
   {
-   "id": "qcvvaved",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-11",
-   "title": "Channel 14 Re-Files Contempt Petition Against Democrats Party Over Repeated Press Exclusion",
-   "source": "The7eye (העין השביעית)",
-   "url": "https://www.the7eye.org.il/591551",
-   "published": "2026-08-05",
-   "topic": "Legal/Media",
-   "urgency": 3,
-   "quality": 3,
-   "status": "new",
-   "updateOf": null,
-   "summary": "Channel 14 filed a new administrative petition at Tel Aviv District Court (עת\"מ 6501-08-26) alleging the Democrats party violated the Supreme Court's 2022 press-access precedent by again barring its crews from a party primary event, seeking a declaratory order compelling equal access to all party events."
-  },
-  {
-   "id": "ih5j1pae",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-11",
-   "title": "Government Advertising Spend on Channel 14 Sets New Record: NIS 7.1M in 2025, Up 368% Since 2022",
-   "source": "The7eye (העין השביעית)",
-   "url": "https://www.the7eye.org.il/591110",
-   "published": "2026-08-05",
-   "topic": "Media/Finance",
-   "urgency": 3,
-   "quality": 3,
-   "status": "new",
-   "updateOf": null,
-   "summary": "Newly disclosed official data show the Netanyahu government paid a record NIS 7.1 million in state advertising to Yitzhak Mirilashvili's Channel 14 in 2025 — a 9% rise on the previous record year and a 368% surge versus 2022, intensifying scrutiny of the channel's regulatory treatment."
-  },
-  {
-   "id": "nhxzgq8v",
-   "projectId": "p-mirilashvili",
-   "projectName": "Mirilashvili",
-   "scanDate": "2026-08-11",
-   "title": "Israeli Press Front Pages (11.8.2026): Mirilashvili Cross-Ownership Issue Leads Third Consecutive Day",
-   "source": "The7eye (העין השביעית)",
-   "url": "https://www.the7eye.org.il/591984",
-   "published": "2026-08-11",
-   "topic": "Media",
-   "urgency": 2,
-   "quality": 3,
-   "status": "update",
-   "updateOf": "Cross-Ownership Battle Over Channel 14 and Kol Chai Leads Today's Israeli Press Front Pages",
-   "summary": "Today's Israeli press digest confirms Mirilashvili's dual ownership of Channel 14 and Kol Chai radio — and the Second Authority's pending response — remains the dominant Israeli media story for a third consecutive day, with no regulatory decision announced yet."
-  },
-  {
-   "id": "ibws518x",
-   "projectId": "p-kazakhstan",
-   "projectName": "Kazakhstan",
-   "scanDate": "2026-08-11",
-   "title": "Kazakhstan Weighs New Oil Export Routes as Drone Strikes Squeeze Black Sea Shipments",
-   "source": "Reuters (via Yahoo Finance)",
-   "url": "https://finance.yahoo.com/energy/articles/kazakhstan-weighs-routes-drone-strikes-113000568.html",
-   "published": "2026-08-10",
-   "topic": "Energy/Trade",
-   "urgency": 4,
-   "quality": 4,
-   "status": "update",
-   "updateOf": "Tankers Resume Oil Loadings at Key Kazakh CPC Export Terminal After Attacks",
-   "summary": "Kazakhstan's Energy Ministry is actively evaluating the BTC pipeline, Baku-Supsa route, and trans-Caspian Azerbaijan transit as emergency alternatives after Ukrainian drone strikes suspended CPC Black Sea loadings three times in July alone, halving national oil output at its peak."
-  },
-  {
-   "id": "9vu2eto3",
-   "projectId": "p-spiro",
-   "projectName": "Alex Spiro",
-   "scanDate": "2026-08-11",
-   "title": "California Federal Court Denies CREXi Stay Bid in CoStar Copyright Case Amid Quinn Emanuel DQ Appeal",
-   "source": "Law360",
-   "url": "https://www.law360.com/appellate/articles/2511838",
-   "published": "2026-08-10",
-   "topic": "Litigation/IP",
-   "urgency": 4,
-   "quality": 4,
-   "status": "update",
-   "updateOf": "CREXi Petitions Ninth Circuit to Undo Quinn Emanuel/Spiro Disqualification in CoStar Copyright Fight",
-   "summary": "A California federal judge rejected CREXi's bid to stay the CoStar copyright suit while CREXi pursues its Ninth Circuit appeal of Quinn Emanuel's disqualification, forcing CREXi to proceed without Spiro's team."
-  },
-  {
    "id": "94sr0wu7",
    "projectId": "p-mirilashvili",
    "projectName": "Mirilashvili",
@@ -257,5 +177,5 @@
    }
   }
  },
- "lastScan": "2026-09-01T04:05:36.680Z"
+ "lastScan": "2026-09-02T04:06:13.988Z"
 }
